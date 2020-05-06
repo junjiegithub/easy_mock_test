@@ -1,0 +1,6 @@
+{
+  "url": "http://47.75.7.156:7300/api/u/login",
+  "name": "easymock01",
+  "password": "123456",
+  "expect_result": "success"
+}

@@ -1,0 +1,6 @@
+{
+  "url": "http://47.75.7.156:7300/api/group",
+  "headers": {"Content-Type": "application/json","Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlOWQwYmM4ZTU5YjU5MDAyMGE0NGJkNCIsImlhdCI6MTU4ODcyNzEzMCwiZXhwIjoxNTg5OTM2NzMwfQ.fPOZYY5YYzldNZEXrWu58V40ktscvIAUzgYOh0lSEVw"},
+  "data":{"id":"","name":"test001","group":"","swagger_url":"","description":"","url":"/test009","members":[]},
+  "expect_result":"success"
+}
